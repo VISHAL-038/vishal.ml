@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#D9FF5A"
+backgroundColor = "#0E0E0E"
+secondaryBackgroundColor = "#17171A"
+textColor = "#EAE8E1"
+linkColor = "#EAE8E1"
+linkUnderline = false
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
